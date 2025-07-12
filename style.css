@@ -6,14 +6,14 @@ body {
 .font-mono {
     font-family: 'Roboto Mono', monospace;
 }
-.text-js-yellow {
-    color: #F7DF1E;
+.text-js-Blue {
+    color: #00008B;
 }
-.bg-js-yellow {
-    background-color: #F7DF1E;
+.bg-js-blue {
+    background-color: #00008B;
 }
-.border-js-yellow {
-    border-color: #F7DF1E;
+.border-js-blue {
+    border-color: #00008B;
 }
 .bg-dark-card {
     background-color: #1A1A1A;
